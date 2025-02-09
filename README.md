@@ -52,8 +52,8 @@ Veja mais no meu [Portfólio Online](https://github.com/JoaoVitor10034/) 🌐
 ✅ E-commerce (Loja Virtual) – R$ 3.000 a R$ 10.000
 🔹 Loja online com catálogo de produtos e integração de pagamento.
 
-✅ Site para Engenharia/Física (Simulações ou Calculadoras) – R$ 2.000 a R$ 15.000
-🔹 Desenvolvimento de sites técnicos para empresas, engenheiros ou físicos que precisam de ferramentas interativas.
+✅ Site para (Simulações ou Calculadoras) – R$ 2.000 a R$ 15.000
+🔹 Desenvolvimento de sites técnicos para empresas, que precisam de ferramentas interativas.
 
 ✅ Manutenção e Otimização de Sites – R$ 300 a R$ 1.500/mês
 🔹 Atualizações, melhorias de SEO, velocidade e segurança para sites já existentes.
